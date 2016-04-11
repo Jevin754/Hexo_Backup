@@ -60,7 +60,7 @@ Font-style: cute
 
 # code highlight theme
 # available: default | night
-highlight_theme: default
+highlight_theme: night
 
 #### index post is expanding or not 
 index:
