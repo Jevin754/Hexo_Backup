@@ -3,6 +3,7 @@ title: OpenCV VS 配置
 date: 2016-04-11 21:35:06
 tags:
 categories: Tech
+description: 介绍在VS工程中配置OpenCV
 ---
 OpenCV在VS工程中的配置
 <!--more-->
