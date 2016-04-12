@@ -7,6 +7,12 @@ description: 介绍在VS工程中配置OpenCV
 ---
 OpenCV在VS工程中的配置
 <!--more-->
+## OpenCV下载
+在OpenCV官网下载相应版本，解压，添加环境变量：
+``` cpp
+opencv_dic\build\x64\vc11\bin
+```
+vc11对应VS2012，vc12对应VS2013。
 ## 配置管理器
 配置x64管理器
 
