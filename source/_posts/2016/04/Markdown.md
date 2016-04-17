@@ -13,3 +13,21 @@ description: 这是一篇Markdown学习笔记，不定期更新。
   ###及以下 没有横线分割 
   ```
   我自己一般的写作习惯是，从“##”即二级标题开始进行标记。
+
+## 语法
+### 加粗加斜
+  ```
+  *Example* #斜体
+  **Example** #加粗
+  ***Example*** #粗斜体
+  ```
+
+## 嵌入
+### 图片
+  [七牛](http://qiuniu.com)图床妥妥的~
+
+### 视频
+  插入视频的代码如下：
+  ``` html
+  <video id="sampleMovie" src="video_url" controls></video>
+  ```
