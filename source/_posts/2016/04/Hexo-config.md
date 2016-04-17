@@ -108,3 +108,6 @@ public/
 /.deploy_git/
 ```
 每次更新完博客之后进行同步就OK了。
+
+## 关于图床
+七牛图片[基本处理](http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html)
