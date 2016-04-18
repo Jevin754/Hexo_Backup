@@ -23,6 +23,10 @@ description: 这是一篇Markdown学习笔记，不定期更新。
   ```
 
 ## 嵌入
+### 代码块
+  支持高亮的编程语言见这个[链接](http://highlightjs.readthedocs.org/en/latest/css-classes-reference.html)。
+
+
 ### 图片
   [七牛](http://qiuniu.com)图床妥妥的~
 
