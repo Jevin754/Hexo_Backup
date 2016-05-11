@@ -28,7 +28,7 @@ curl http://npmjs.org/install.sh | sudo sh
 #### 安装Hexo
 如果npm速度较慢，可以换淘宝源：http://npm.taobao.org/
 ``` bash
-nmp install hexo-cli -g --registry=https://registry.npm.taobao.org
+sudo npm install hexo-cli -g --registry=https://registry.npm.taobao.org
 ```
 
 ### Windows
