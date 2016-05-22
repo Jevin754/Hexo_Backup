@@ -34,10 +34,10 @@ description: 研一和实验室师兄师姐们的天柱山之行~
 ![](http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_3356.JPG)
 
 最后，来几张住的地方美美的风景，桃园人家~
-!()[http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150926_095121_HDR.jpg]
-!()[http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064538_HDR.jpg]
-!()[http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064008_HDR.jpg]
-!()[http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064251_HDR.jpg]
+![](http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150926_095121_HDR.jpg)
+![](http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064538_HDR.jpg)
+![](http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064008_HDR.jpg)
+![](http://7xsv9s.com1.z0.glb.clouddn.com/201509_Tianzhushan%2FIMG_20150927_064251_HDR.jpg)
 
 ## 返回
 坐周天晚上的火车回合肥，累的不要不要的。。。但是，爽得很啊~~~~~
