@@ -14,6 +14,12 @@ description: 邻居的耳朵小音频，方便不能直接访问邻居的耳朵�
 1. [横跨青春的歌最动听](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E6%A8%AA%E8%B7%A8%E9%9D%92%E6%98%A5%E7%9A%84%E6%AD%8C%E6%9C%80%E5%8A%A8%E5%90%AC.mp3)
 1. [你有你的词不达意，他有他的心领神会，你们总差那么点儿](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E4%BD%A0%E6%9C%89%E4%BD%A0%E7%9A%84%E8%AF%8D%E4%B8%8D%E8%BE%BE%E6%84%8F%EF%BC%8C%E4%BB%96%E6%9C%89%E4%BB%96%E7%9A%84%E5%BF%83%E9%A2%86%E7%A5%9E%E4%BC%9A%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%80%BB%E5%B7%AE%E9%82%A3%E4%B9%88%E7%82%B9%E5%84%BF.mp3)
 1. [我们总在等待对的时机](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E6%88%91%E4%BB%AC%E6%80%BB%E5%9C%A8%E7%AD%89%E5%BE%85%E5%AF%B9%E7%9A%84%E6%97%B6%E6%9C%BA.mp3)
+1. [想唱给人的都是你](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E6%83%B3%E5%94%B1%E7%BB%99%E4%BA%BA%E7%9A%84%E9%83%BD%E6%98%AF%E4%BD%A0.mp3)
+1. [每一次离别，都可能是你我的最后一次相见](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E6%AF%8F%E4%B8%80%E6%AC%A1%E7%A6%BB%E5%88%AB%EF%BC%8C%E9%83%BD%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BD%A0%E6%88%91%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E7%9B%B8%E8%A7%81.mp3)
+1. [同桌的他](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E5%90%8C%E6%A1%8C%E7%9A%84%E4%BB%96.mp3)
+1. [你是午夜误点的乘客，而他偏偏也选了这班车](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E4%BD%A0%E6%98%AF%E5%8D%88%E5%A4%9C%E8%AF%AF%E7%82%B9%E7%9A%84%E4%B9%98%E5%AE%A2%EF%BC%8C%E8%80%8C%E4%BB%96%E5%81%8F%E5%81%8F%E4%B9%9F%E9%80%89%E4%BA%86%E8%BF%99%E7%8F%AD%E8%BD%A6.mp3)
+1. [爱情好讨厌，还好你很可爱](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E7%88%B1%E6%83%85%E5%A5%BD%E8%AE%A8%E5%8E%8C%EF%BC%8C%E8%BF%98%E5%A5%BD%E4%BD%A0%E5%BE%88%E5%8F%AF%E7%88%B1.mp3)
+1. [告别是看到所有美好的东西，也不再和你说了](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Feryuqiyan%2F%E5%91%8A%E5%88%AB%E6%98%AF%E7%9C%8B%E5%88%B0%E6%89%80%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E4%B9%9F%E4%B8%8D%E5%86%8D%E5%92%8C%E4%BD%A0%E8%AF%B4%E4%BA%86.mp3)
 
 ## 柒小汪包子店的故事
 1. [鸡翅妹的爱情故事](http://7xuevl.com1.z0.glb.clouddn.com/linju_erduo%2Fqixiaowang%2F%E9%B8%A1%E7%BF%85%E5%A6%B9%E7%9A%84%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B.mp3)
