@@ -1,3 +1,2 @@
 User-agent:*
 Disallow:/
-<meta name="robots" content="noindex,nofollow,nosnippet,noarchive,noodp">
